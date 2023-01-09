@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Application-Benomar</string>
+    <string name="commentaire"> Intent explicite et implicite</string>
+    <string name="intentexplicite"> Intent explicite</string>
+    <string name="intentimplicite"> Intent implicite</string>
+</resources>
